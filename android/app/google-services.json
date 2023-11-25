@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382256232440",
+    "project_id": "feedbackform-892be",
+    "storage_bucket": "feedbackform-892be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382256232440:android:9c82d7b7d2279498f1080d",
+        "android_client_info": {
+          "package_name": "com.des.feedback_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBduwGfW_09Pa1qsHwuXKyKQckbA9Ngwe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
